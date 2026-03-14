@@ -10,3 +10,8 @@ https://www.scientificamerican.com/article/why-developers-using-ai-are-working-l
 https://www.reddit.com/r/ExperiencedDevs/comments/1rnkv2t/the_ai_coding_productivity_data_is_in_and_its_not/
 
 https://andychen32.substack.com/p/the-enterprise-context-layer
+
+## General 
+[Levels of Agentic Engineering]([url](https://www.bassimeledath.com/blog/levels-of-agentic-engineering))
+
+Overview of the different levels / stages of adoption of agentic engineering. 
