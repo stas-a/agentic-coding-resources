@@ -12,6 +12,6 @@ https://www.reddit.com/r/ExperiencedDevs/comments/1rnkv2t/the_ai_coding_producti
 https://andychen32.substack.com/p/the-enterprise-context-layer
 
 ## General 
-[Levels of Agentic Engineering]([url](https://www.bassimeledath.com/blog/levels-of-agentic-engineering))
+[Levels of Agentic Engineering](https://www.bassimeledath.com/blog/levels-of-agentic-engineering))
 
 Overview of the different levels / stages of adoption of agentic engineering. 
