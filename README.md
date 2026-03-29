@@ -3,6 +3,12 @@ This is live reading list LLMs, AI and agentic coding. It will be updated as I d
 
 Entries without description / naked links are the ones I have not read in detail just yet. 
 
+## Important Ideas
+- Make agents with different models.  
+Make agents with different LLMs: one agent writes code, another agent reviews and/or tests code. Otherwise LLMs tend to agree
+with themselves. [Source](https://www.stavros.io/posts/how-i-write-software-with-llms/)
+- Agents and models have different strenghts and weaknesses, lean into that. 
+
 ## General 
 - [Levels of Agentic Engineering](https://www.bassimeledath.com/blog/levels-of-agentic-engineering)
 — Overview of levels of adoption of agentic engineering. 
@@ -20,19 +26,26 @@ Entries without description / naked links are the ones I have not read in detail
     - https://bbycroft.net/llm
     - https://news.ycombinator.com/item?id=46871654
     - https://visualrambling.space/neural-network/
+  Visualizing LLMs
+    - https://r2d3.us/visual-intro-to-machine-learning-part-1/
+    - https://sebastianraschka.com/llm-architecture-gallery/
 - Understanding AI agents
     - https://news.ycombinator.com/item?id=46545620
     - https://www.mihaileric.com/The-Emperor-Has-No-Clothes/
     - https://fly.io/blog/everyone-write-an-agent/
 
-## Advanced / Teams / Swarms
+## Advanced / Teams of Agents
 - [Welcome to Gas Town]([url](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04))
 - https://lobste.rs/s/txknsm/my_thoughts_on_gas_town_after_10_000_hours
+- [Paper - LLM-Based Multi-Agent Systems in Software Engineering ](https://arxiv.org/html/2404.04834v4)
+- [Advanced Context Engineering for Coding Agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)⭐
 
 ## Cookbooks and Examples
+- https://github.com/github/awesome-copilot
 - https://docs.github.com/en/copilot/tutorials/copilot-chat-cookbook
 - https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/
 - https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know
+- https://github.com/punkpeye/awesome-mcp-servers
 - Agentic Patterns
     - https://github.com/nibzard/awesome-agentic-patterns
     - https://www.agentic-patterns.com/
@@ -41,12 +54,25 @@ Entries without description / naked links are the ones I have not read in detail
     - https://news.ycombinator.com/item?id=47165046
     - https://github.com/desplega-ai/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md
     - https://github.com/desplega-ai/agent-swarm
+- https://simonwillison.net/guides/agentic-engineering-patterns/prompts/
 
 ## Interesting Tools
+- [Superpowers](https://github.com/obra/superpowers?tab=readme-ov-file)⭐  
+  Agentic coding framework defining agents, skills and patterns for efficient multi-agent development.
+- [Get Shit Done](https://github.com/gsd-build/get-shit-done)⭐  
+  Opinionated light-weight agentic spec-driven meta-prompting coding system that poses itself as simpler alternative to SpecKit. Also see overview [here](https://thenewstack.io/beating-the-rot-and-getting-stuff-done/). And see video [here](https://www.youtube.com/watch?v=5L3dm7KBCmY).
+-   
+- [OpenCode](https://opencode.ai)⭐  
+  FOSS harness for agentic CLI coding similar to Claude Code, Copilot CLI etc.
+- [Pi](https://pi.dev/)  
+  Minimalistic FOSS harness for agentic CLI coding.
 - https://entire.io/vision
 - https://developer.microsoft.com/blog/making-windows-terminal-awesome-with-github-copilot-cli
+- https://openclaw.ai/
 
-## Management and Psychology 
+## Management and Psychology
+- [How Is AI-assisted Coding Going for You?](https://news.ycombinator.com/item?id=47388646)  
+  Mix of personal opinions ranging from happy to full on doom, very little to almost everything. It's pretty much "the future is already here, it's just unevenly distributed. One thing almost everyone agrees on - there is big shift underway.
 - https://shumer.dev/something-big-is-happening
 - [The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software)
 - Future of software development conference
@@ -66,11 +92,42 @@ Entries without description / naked links are the ones I have not read in detail
 - https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/
 
 ## Unsorted Queue
+- https://neilkakkar.com/productive-with-claude-code.html
 - https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
 - https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/
 - https://www.reddit.com/r/ExperiencedDevs/comments/1rnkv2t/the_ai_coding_productivity_data_is_in_and_its_not/
 - https://andychen32.substack.com/p/the-enterprise-context-layer
 - https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/
+
+- https://pub.spillwave.com/agentic-coding-gsd-vs-spec-kit-vs-openspec-vs-taskmaster-ai-where-sdd-tools-diverge-0414dcb97e46
+- https://blog.information-superhighway.net/on-the-need-for-understanding
+- https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative
+- https://simonwillison.net/guides/agentic-engineering-patterns/prompts/
+- https://arxiv.org/html/2404.04834v4
+- https://news.ycombinator.com/item?id=47394022
+- https://kanfa.macbudkowski.com/vibecoding-cryptosaurus
+- https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/#summary
+- https://modelcontextprotocol.io/docs/getting-started/intro
+- https://learningloom.substack.com/p/the-future-belongs-to-those-who-can
+- https://www.fast.ai/posts/2026-01-28-dark-flow/
+- https://www.bhusalmanish.com.np/blog/posts/why-claude-wins-coding.html
+- https://www.thoughtworks.com/insights/blog/agile-engineering-practices/where-does-the-rigor-go
+- https://stevekrouse.com/precision
+- https://www.thoughtworks.com/about-us/events/the-future-of-software-development
+- https://composio.dev/content/openclaw-security-and-vulnerabilities
+- https://contextbento.substack.com/p/openclaw-high-level-architecture
+- https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
+- https://github.com/facebookresearch/hyperagents
+- https://github.com/axeldelafosse/loop
+- https://axeldelafosse.com/blog/agent-to-agent-pair-programming
+- https://lab.puga.com.br/cog/#/
+- https://github.com/itigges22/ATLAS
+- https://github.com/garrytan/gstack
+- https://neilkakkar.com/productive-with-claude-code.html
+- https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+- https://www.reddit.com/r/ClaudeCode/comments/1rw9vsi/pro_tip_just_ask_claude_to_enable_playwright/
+- https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/
+- https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/
 
 ## Non-AI Temp
 - https://medium.com/@rafael-22/the-clean-architecture-i-wish-someone-had-explained-to-me-dcc1572dbeac
