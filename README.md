@@ -36,6 +36,7 @@ with themselves. [Source](https://www.stavros.io/posts/how-i-write-software-with
 
 ## Advanced / Teams of Agents
 - [Welcome to Gas Town]([url](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04))
+- [Gas Town]([url](https://github.com/steveyegge/gastown/))
 - https://lobste.rs/s/txknsm/my_thoughts_on_gas_town_after_10_000_hours
 - [Paper - LLM-Based Multi-Agent Systems in Software Engineering ](https://arxiv.org/html/2404.04834v4)
 - [Advanced Context Engineering for Coding Agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)⭐
@@ -45,6 +46,7 @@ with themselves. [Source](https://www.stavros.io/posts/how-i-write-software-with
 - https://docs.github.com/en/copilot/tutorials/copilot-chat-cookbook
 - https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/
 - https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know
+- https://github.com/shanraisshan/claude-code-best-practice
 - https://github.com/punkpeye/awesome-mcp-servers
 - Agentic Patterns
     - https://github.com/nibzard/awesome-agentic-patterns
@@ -55,6 +57,9 @@ with themselves. [Source](https://www.stavros.io/posts/how-i-write-software-with
     - https://github.com/desplega-ai/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md
     - https://github.com/desplega-ai/agent-swarm
 - https://simonwillison.net/guides/agentic-engineering-patterns/prompts/
+
+## Code Examples
+- [Using Google Gemma multi-modal model for understanding speech and video locally] https://github.com/fikrikarim/parlor
 
 ## Interesting Tools
 - [Superpowers](https://github.com/obra/superpowers?tab=readme-ov-file)⭐  
@@ -73,6 +78,10 @@ with themselves. [Source](https://www.stavros.io/posts/how-i-write-software-with
 ## Management and Psychology
 - [How Is AI-assisted Coding Going for You?](https://news.ycombinator.com/item?id=47388646)  
   Mix of personal opinions ranging from happy to full on doom, very little to almost everything. It's pretty much "the future is already here, it's just unevenly distributed. One thing almost everyone agrees on - there is big shift underway.
+- [The machines are fine. I'm worried about us.](https://ergosphere.blog/posts/the-machines-are-fine/)⭐   
+  Very good article about using LLMs in academia and the learning gaps they create. Principled and nuanced article. 
+- [Dark Flow](https://www.fast.ai/posts/2026-01-28-dark-flow/)  
+  The author draws parallels between using LLMs and gambling - both are feeding users losses disguised as partial success to create a psychological state of "dark flow". The conclusion is that LLMs may be making us less productive in the long term and causing skill atrophy. So creativity and thinking still matter. 
 - https://shumer.dev/something-big-is-happening
 - [The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software)
 - Future of software development conference
@@ -80,6 +89,8 @@ with themselves. [Source](https://www.stavros.io/posts/how-i-write-software-with
     - https://annievella.com/posts/finding-comfort-in-the-uncertainty/
     - https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_future%20_of_software_development_retreat_%20key_takeaways.pdf
 - https://addyosmani.com/blog/next-two-years/
+
+
 
 ## Futuristic Musings
 - Singularity will occur on Tuesday
@@ -109,7 +120,6 @@ with themselves. [Source](https://www.stavros.io/posts/how-i-write-software-with
 - https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/#summary
 - https://modelcontextprotocol.io/docs/getting-started/intro
 - https://learningloom.substack.com/p/the-future-belongs-to-those-who-can
-- https://www.fast.ai/posts/2026-01-28-dark-flow/
 - https://www.bhusalmanish.com.np/blog/posts/why-claude-wins-coding.html
 - https://www.thoughtworks.com/insights/blog/agile-engineering-practices/where-does-the-rigor-go
 - https://stevekrouse.com/precision
