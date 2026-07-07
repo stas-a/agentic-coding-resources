@@ -66,6 +66,8 @@ with themselves. [Source](https://www.stavros.io/posts/how-i-write-software-with
   Agentic coding framework defining agents, skills and patterns for efficient multi-agent development.
 - [Get Shit Done](https://github.com/gsd-build/get-shit-done)⭐  
   Opinionated light-weight agentic spec-driven meta-prompting coding system that poses itself as simpler alternative to SpecKit. Also see overview [here](https://thenewstack.io/beating-the-rot-and-getting-stuff-done/). And see video [here](https://www.youtube.com/watch?v=5L3dm7KBCmY).
+- [Herdr](https://herdr.dev/⭐
+  Terminal multiplexer for coding agents
 -   
 - [OpenCode](https://opencode.ai)⭐  
   FOSS harness for agentic CLI coding similar to Claude Code, Copilot CLI etc.
